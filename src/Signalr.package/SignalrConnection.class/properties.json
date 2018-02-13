@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Signalr",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"httpClient",
+		"websocket",
+		"baseUrl",
+		"params"
+	],
+	"name" : "SignalrConnection",
+	"type" : "normal"
+}
