@@ -1,0 +1,2 @@
+# signalr
+Pharo Signalr Client 
