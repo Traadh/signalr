@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Signalr",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mutex",
+		"register",
+		"invokeCount"
+	],
+	"name" : "SignalrResponseRegister",
+	"type" : "normal"
+}

@@ -1,3 +1,3 @@
-accessors
+accessing
 connectionToken 
-	^ params at: 'ConnectionToken'.
+	^ negotiations at: 'ConnectionToken'.

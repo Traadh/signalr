@@ -6,10 +6,16 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"httpClient",
-		"websocket",
 		"baseUrl",
-		"params"
+		"httpClient",
+		"negotiations",
+		"websocket",
+		"logging",
+		"rxProcess",
+		"txProcess",
+		"txQueue",
+		"hubs",
+		"responses"
 	],
 	"name" : "SignalrConnection",
 	"type" : "normal"

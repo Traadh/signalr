@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Signalr",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"arguments",
+		"index",
+		"response",
+		"hubName",
+		"methodName"
+	],
+	"name" : "SignalrMessage",
+	"type" : "normal"
+}
